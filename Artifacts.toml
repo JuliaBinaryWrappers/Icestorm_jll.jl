@@ -1,0 +1,252 @@
+[[Icestorm]]
+arch = "aarch64"
+git-tree-sha1 = "b3c861602196d80414c3958923cf23215e4ac872"
+os = "macos"
+
+    [[Icestorm.download]]
+    sha256 = "0c7af0d560c62174431cb5f96a76f2b392491b0a6be3ef0977ea501e8319c154"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[Icestorm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "71c284abc41c7cdf8e6b25b18145b74f2d39f7cd"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "3f1c0655451912a5d8edbd9fd04222f43be50e8542ca157ac8fec6222c642a39"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Icestorm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8beac23b0267b370c9531cbf42794a38ba935c30"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "74118f081ce22a7894f2c233f97617417a4b14f6cc23487eba859e656a315ce3"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Icestorm]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d6b4f3145ae88e624fa0d34fb78354b927f35ed5"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "df4dc5d183b825080962896a79a91e5f0596baca5136fd77f8aef765541f7e00"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Icestorm]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25f4d6a522e2c40356ccbd723dc6fc4e9e543d72"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "fde43447ce13e200ff294da70234505aac6a5d2a4e050cd13eb56a2634aee93c"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Icestorm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8fd24aaf2ff1fcaa736e90fdd993a96be47eafd9"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "01175c5fc848a9a808ba6ace9ecb651d156cf1703be0b2affcfe6332cbbf6855"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Icestorm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a804ba52d15628539ed6ca4455dffadc5f5d19a7"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "a58ac83819b9bbaa5b2c0b4243ee4aebb4fdc452859551c5ec90d2d34c8add2e"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Icestorm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a44c3d2c5c7c4f89557bb4893355048de35be047"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "b5eea2db6592d9c447c5a80fd2ee03b17315599c9fcf76c43bd6bea8088fc1de"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Icestorm]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f4a3677b12c8f335c7ea4b1e29981785a53c36a"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "ac061adc3985716d1c98288087328990255a615d9119558c364d672e56a116f1"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Icestorm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d5387d611007d85e906961eedb42489a876b1914"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "3d964aa130cf4453a895561a49207687cd840f89e38e390493ef9d8a8ae20df0"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Icestorm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f0300dc04216575445f1936cdc05574d1729788"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "b1cd86712448b109308ea84e47242c37e6f01eb3a639bce602ab11be7a448c9d"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Icestorm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4dcc7c405925114b7a1c117fd355de07d420d253"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "5ed374cc2aa48ea8d914754b788ae0513867746c994fdcc939080676e8c22dfd"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Icestorm]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2268ac7e3884c058daa97965e0b958a908efcbee"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "c05e53efe98670b76b232a6a27fa60fb9b67e6c34f2c67ae2d31c8e629057773"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Icestorm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e625e6ed0c902d036072c55429c24549d4b0491f"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "e19972ef7e1fe3451604587c7f5390e8fbafa2a14cd57ecaf8bd4e6cbc20efbb"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.i686-linux-gnu-cxx03.tar.gz"
+[[Icestorm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60ecb7592eff59703baabbd101828eb40010c1bf"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "cbeeb2991ee055a99882968f7d979ccb7f4d32071eaaeaba038f384671a8be3c"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.i686-linux-gnu-cxx11.tar.gz"
+[[Icestorm]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e10bc9c4114c7e7dbc46556d00c88b6aa88ca0fe"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "48ee03d795a86bbf3a43d965c34b9213ee237a70a62ccb724c2066a9819bc94e"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.i686-linux-musl-cxx03.tar.gz"
+[[Icestorm]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aeb9774df52d693e9427cb5f67ad38548a8fb20f"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "a53ef7dca8a5b066430063a636f6353d2943ae80ea1d2316f0bb35150011831e"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.i686-linux-musl-cxx11.tar.gz"
+[[Icestorm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb64d2f1f909a141d4b950fd54c083e87b9491ad"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "1b0ada3113de5257d1012c0f6d14c048d8ec114be728d8ae4b612b747356d5e6"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Icestorm]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "357ba6fcad307b8a3a36f1adf76e5ddde602c948"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "3a92222c43bac5b631182e55fea36c51451e37d0845b42591b4286069ccffef2"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+git-tree-sha1 = "a883e329229a0caa9cbc82fbc080bb367caa3dda"
+os = "macos"
+
+    [[Icestorm.download]]
+    sha256 = "8900f8b8fdc7d4350bd5d5d970de51ac67ddf796024fc9b32d7218f49bd05374"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "55d2511f84bc81fc24ec5e9cf4be3f1a40977991"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "46e3a2d5dd8be1db7b8a3279880c37a3b277f881ddc8607e9d749f063f98d439"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7a914e8ebd6d405e5a301f0098fabd1c0c004797"
+libc = "glibc"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "32d2107769cc438e211f6cce6002edf187d96d5510abbe374b672c3b235bbc8b"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9db286296cec0120aa5838259a88746b3de75aa7"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "ebb0c0a495673550a4b7d8a64c16b41cf8682d4c35524c758e58940268ef2e89"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b07ccd22fe310623ab138b9e0023209733b7ed7a"
+libc = "musl"
+os = "linux"
+
+    [[Icestorm.download]]
+    sha256 = "dea41e69fe76432e18eccea04ee275546667721978924682251fa5d3bb2a5d18"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Icestorm]]
+arch = "x86_64"
+git-tree-sha1 = "85361126b99a2f62542a5ed8ef399d9f08a51b06"
+os = "freebsd"
+
+    [[Icestorm.download]]
+    sha256 = "b04438660af40a74eaba6885fcb255c2de3512873ace58332539e5129164a155"
+    url = "https://github.com/JuliaBinaryWrappers/Icestorm_jll.jl/releases/download/Icestorm-v0.1.0+0/Icestorm.v0.1.0.x86_64-unknown-freebsd.tar.gz"
